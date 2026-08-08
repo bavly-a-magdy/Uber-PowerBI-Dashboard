@@ -31,3 +31,6 @@ Uber-PowerBI-Dashboard/
 ├── LinkedIn/
 │   └── LinkedIn_Post.md
 └── LICENSE
+## Dashboard Preview
+
+<img src="Screenshots/Home.jpg" width="100%">
