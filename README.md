@@ -33,4 +33,9 @@ Uber-PowerBI-Dashboard/
 └── LICENSE
 ## Dashboard Preview
 
-<img src="Screenshots/Home.jpg" width="100%">
+<img src="Screenshoots/Home.jpg" width="100%">
+
+## Booking Analysis
+
+<img src="Screenshoots/Booking_analysis.jpg" width="100%">
+
